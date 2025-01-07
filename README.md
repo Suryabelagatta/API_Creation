@@ -2,6 +2,9 @@
 API_Creation is javascript backend project which performs basic crud operations with REST APIs 
 
 Build all of the APIs as per the Documentation 
+There are 2 files 
+connection.js (for connecting with the database) 
+app.js (contains the working code) 
 
 Took help with chatgpt to resolve some errors 
 Refered youtube video to handle image files with nodejs link to the video: https://youtu.be/pfxd7L1kzio?si=u93DySOd88WeFBP9 
